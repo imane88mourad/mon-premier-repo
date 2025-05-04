@@ -1,2 +1,3 @@
 "hello, git" 
 this is an update on the feature branch
+this is second update on feature branch
